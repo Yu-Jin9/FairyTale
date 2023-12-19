@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060182632972",
+    "project_id": "fairytale-ed10f",
+    "storage_bucket": "fairytale-ed10f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060182632972:android:f4ac219647feb02cba9c29",
+        "android_client_info": {
+          "package_name": "com.Fairytale.sw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA72W7lWhhsBRKvTfSoGDALsapZ4ty6L3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
